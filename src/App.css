@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+.name {
+  color: gray;
+  border: 1px solid gray;
+  width: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
